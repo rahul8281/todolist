@@ -1,0 +1,15 @@
+*{
+    padding:  0;
+    margin: 0;
+}
+body{
+   background-size: 100%;
+}
+.text{
+    text-align: center;
+}
+.h1{
+    font-style: oblique;
+    margin-top: 5%;
+    color: black;
+}
